@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "talkfusion-356a7",
+  "private_key_id": "ec96d5b179030fc49cf7fb9d0d249ba09f258da5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr/0azFBdMJ8UC\nQLxG7uBJXcQZakv/ZyOlX7FWSozg/MRNkEmFS2WKGfRBEeVRQgz8gAW1xG+MRlN0\nvwRkVMsAx8M8494iPuzlbywif+G0Sjx2pbbO/7kj8hXhNIZlhHYkFKvW+odnqEhM\nm8n2C2KwbrVlEsUKwi8TjV9GQv3CpmlnIZFKxUzrzwcaH9WFlM6POC1ZI3oXWCNX\n7BCydBIi+0Kp9ho2zpMvdXQ8R6tGUnrY8YcR5ZuhZt0HBhPo0233QPh18g9LALX5\nXwB8t5jC4NmF96W/ApD1LYmQHzoOBVLQ7Mj/HjcvN33NX58zSoBlkJ4WNwW/9gYq\nofqiO1ojAgMBAAECggEADAIRDgyficYXB468dllUGFsvBzU4JBcv0mppZ6RhzI1p\nKR8jOuamKqugNXDJ6U/qtzA69dNGlG0Og46YgGa5G49Wzqf8CLkK8gO+eZQjDmLG\ncOQl7LLG2r8ajvQLVAgY9XDqBGLOVErX7V1NDtwBol7AVFOopRUkk0Fh/vZLYCz/\noBjRFPol3ak3vUhGBJNDdNXG3wu79rmFZNyTtcUDhAVvtnieWsMtXlAuORNDytkx\nAvvpu++FGDyXgjJ4ylP8VfddT/gNIuFXci5ygkeZIscL2iukd9YSKJx3/YyKEmrE\nCXVC6dJZBpKLIxFPElDhESKr/O3eV1u1LG4zG9MMxQKBgQDqqc7HvB3wiv1XXkLt\nMJ53VTCOl0zhzJcfOwnDB6reTkiL65iUETtzrsuSeWew26Zknjdlfhq7Eo7M3rmv\nSi9S2QQpkjrUheF2v4I9269Q1wx7eGEaV4CwDT69fBt3oxe9byVTAumwgMBY8n1w\niOiSzQVlTo6KnTi1rMGmPnDDNwKBgQC7os5mM4aqsO9fpCOq7152VFddlcyw8Lsi\neOx0Ty7ZE+WA5ZFfINExRG41gRsuTdvZHztV+62Aa9Yz+jJSKtYzPD5b8v9taKM+\nPuA38Z9hDL78tzOIcK5Uy+wwl3fLF6fCohPBkbenY4tUi9tgZfVOslLRLrnzRqgi\nsFKMuvPudQKBgDEgS4HVCA+LiW349dniC8q/suKnGhlLU3feTDTgLg1MJjPkppSY\n5vFY7pVDhUmpMjRuSvqcY8w2Hl8VYZoo1a9qb0ykqFxFiuXpQcLhctphquNOWEXD\ne9VfcHsKuFVbd2TZF99BBNtGmP4GBezBPK8+7JpAz+aE85JVEFVVTRYRAoGATZAg\nR+kWyup3GQ8N23Q1lS6KKtpokeABS1+3RuEQmZV68oxzSmKTdw01jZJ//OUccyVQ\n7tspvoNVOYk8UfD5OJa3pGTPp5dwm6N8JkQQQRr2vBqzB7yko9LkILYMQ/zUUUWU\naxjkVSJ2Dw39Ml0TSWO3jlcFcQYNLMG8bgY+HZ0CgYB7WCYDbPRMzl4FLoxw3oy7\nBZ8QBo9Vqgudf7NDFFjy3WLUHkc5JbnP4MNCAgOVbHkpBDqoAOVLLiUPznx3SvOa\nKHSv6VKzSXl6UubNPdH8gFp2bqCItBkiC02PrYGP7yFFBNlE1Ga5tB7lGMX9AZI1\nc+7pEXPkSP+2cYJrXRwb4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "talkfusion-356a7@appspot.gserviceaccount.com",
+  "client_id": "110015742574632842069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talkfusion-356a7%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
